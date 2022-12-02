@@ -1,5 +1,5 @@
-# Python Snake <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="80" height="80"/>&nbsp;
-
+# Python Snake 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="80" height="80"/>&nbsp;
 ## Описание игры 
 
 Управление змейкой происходит за счёт кнопок WASD или стрелочек. Когда змейка "съедает" яблоко игровой счёт увеличивается на единицу. Если змейка врезается в край окна или в себя, то игра прекращается и вызывается экран Game over  и пользователю предлагается два варианта:
