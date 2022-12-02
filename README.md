@@ -1,4 +1,4 @@
-# Python Snake
+# Python Snake <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="80" height="80"/>&nbsp;
 
 ## Описание игры 
 
